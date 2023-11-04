@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b6b2550-99a6-4aa0-8402-4741242d324f" name="Changes" comment="python development">
+      <change afterPath="$PROJECT_DIR$/12.for loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.activity5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698879829617</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="python development">
+      <option name="closed" value="true" />
+      <created>1699120161383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699120161384</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
