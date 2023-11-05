@@ -1,4 +1,4 @@
-# # u_input = int(input("Enter an integer: "))
+# u_input = int(input("Enter an integer: "))
 #
 #
 # def function1(u_input):
